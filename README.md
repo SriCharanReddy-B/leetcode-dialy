@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/SriCharanReddy-B/leetcode-dialy/tree/master/0217-contains-duplicate) |
 | [1288-remove-covered-intervals](https://github.com/SriCharanReddy-B/leetcode-dialy/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/SriCharanReddy-B/leetcode-dialy/tree/master/1301-number-of-paths-with-max-score) |
 | [1833-maximum-ice-cream-bars](https://github.com/SriCharanReddy-B/leetcode-dialy/tree/master/1833-maximum-ice-cream-bars) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/SriCharanReddy-B/leetcode-dialy/tree/master/0217-contains-duplicate) |
 | [1288-remove-covered-intervals](https://github.com/SriCharanReddy-B/leetcode-dialy/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/SriCharanReddy-B/leetcode-dialy/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/SriCharanReddy-B/leetcode-dialy/tree/master/0217-contains-duplicate) |
 | [1189-maximum-number-of-balloons](https://github.com/SriCharanReddy-B/leetcode-dialy/tree/master/1189-maximum-number-of-balloons) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SriCharanReddy-B/leetcode-dialy/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SriCharanReddy-B/leetcode-dialy/tree/master/3739-count-subarrays-with-majority-element-ii) |
