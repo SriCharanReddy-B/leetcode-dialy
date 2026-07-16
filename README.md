@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/SriCharanReddy-B/leetcode-dialy/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/SriCharanReddy-B/leetcode-dialy/tree/master/0242-valid-anagram) |
 | [1288-remove-covered-intervals](https://github.com/SriCharanReddy-B/leetcode-dialy/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/SriCharanReddy-B/leetcode-dialy/tree/master/1833-maximum-ice-cream-bars) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SriCharanReddy-B/leetcode-dialy/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -33,12 +34,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/SriCharanReddy-B/leetcode-dialy/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/SriCharanReddy-B/leetcode-dialy/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/SriCharanReddy-B/leetcode-dialy/tree/master/1189-maximum-number-of-balloons) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SriCharanReddy-B/leetcode-dialy/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SriCharanReddy-B/leetcode-dialy/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/SriCharanReddy-B/leetcode-dialy/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/SriCharanReddy-B/leetcode-dialy/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SriCharanReddy-B/leetcode-dialy/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Dynamic Programming
